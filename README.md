@@ -1,0 +1,2 @@
+# SARS_3c_Cornavirus_ProteinBioactivityScreening-
+SARS_3c_Cornavirus_ProteinBioactivityScreening  using Rdkit-A machine learning tool kit with molecular descriptors
